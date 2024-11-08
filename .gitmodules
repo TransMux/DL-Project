@@ -1,0 +1,9 @@
+[submodule "MedMNIST"]
+	path = MedMNIST
+	url = https://github.com/MedMNIST/MedMNIST
+[submodule "GCVit"]
+	path = GCVit
+	url = https://github.com/NVlabs/GCVit
+[submodule "Transformer-Explainability"]
+	path = Transformer-Explainability
+	url = https://github.com/hila-chefer/Transformer-Explainability

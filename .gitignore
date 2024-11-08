@@ -1,0 +1,6 @@
+models
+dataset
+wandb
+log_dir
+output
+*.pth
